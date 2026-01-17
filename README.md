@@ -144,3 +144,5 @@ Each table is connected using **primary keys and foreign key constraints** to ma
 ---
 
 <img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/34c9023f-6556-43ba-afe6-5fd31adad7d3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a51fc609-c035-4ada-ba21-135065804c6a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/624c4589-51ef-4bee-ad8b-329e3facbaa4" />
